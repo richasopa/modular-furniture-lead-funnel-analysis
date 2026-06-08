@@ -101,14 +101,3 @@ The analysis identifies patterns and opportunities within the data but does not 
 * Power BI Dashboard (.pbix)
 * Dashboard Screenshots
 * Project Documentation (README)
-
-
-## Series Roadmap
-
-✅ Part 1 – Lead Funnel & Conversion Analysis
-
-⬜ Part 2 – Marketing Performance Analysis
-
-⬜ Part 3 – Operations & Delivery Analysis
-
-⬜ Part 4 – Profitability Analysis
