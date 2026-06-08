@@ -1,0 +1,547 @@
+Lead_ID,Inquiry_Date,City,Project_Type,Lead_Source,Budget_INR_K,Funnel_Stage,Stage_Order,Converted,Loss_Reason,Days_In_Funnel
+LD-0001,2023-01-08,Mumbai,Living Room Set,Google Ads,178.0,Site Visit Done,2,0,Site visit done but ghosted,8
+LD-0002,2023-01-17,Mumbai,Living Room Set,Instagram,270.0,Inquiry Only,1,0,Went with local carpenter,2
+LD-0003,2023-01-25,Delhi,Children's Room,Instagram,143.0,Inquiry Only,1,0,No response after inquiry,3
+LD-0004,2023-01-03,Ahmedabad,Bedroom System,Referral,181.0,Closed Won,5,1,,32
+LD-0005,2023-01-18,Ahmedabad,Bedroom System,Google Ads,167.0,Inquiry Only,1,0,No response after inquiry,5
+LD-0006,2023-01-25,Mumbai,Home Office,Referral,115.0,Closed Won,5,1,,38
+LD-0007,2023-01-22,Mumbai,Bedroom System,Housing.com,163.0,Inquiry Only,1,0,Could not schedule,5
+LD-0008,2023-01-15,Bengaluru,Living Room Set,Google Ads,226.0,Inquiry Only,1,0,Location too far,3
+LD-0009,2023-01-02,Hyderabad,Living Room Set,Housing.com,311.0,Inquiry Only,1,0,Could not schedule,2
+LD-0010,2023-01-07,Bengaluru,Kitchen Storage,Housing.com,179.0,Inquiry Only,1,0,Went with local carpenter,2
+LD-0011,2023-01-09,Delhi,Home Office,Referral,170.0,Negotiation,4,0,Competitor won on delivery time,28
+LD-0012,2023-01-05,Hyderabad,Children's Room,Instagram,126.0,Inquiry Only,1,0,Went with local carpenter,5
+LD-0013,2023-01-17,Delhi,Wardrobe Unit,Referral,128.0,Site Visit Done,2,0,Site visit done but ghosted,9
+LD-0014,2023-01-11,Hyderabad,Kitchen Storage,Housing.com,113.0,Inquiry Only,1,0,Went with local carpenter,1
+LD-0015,2023-01-17,Chennai,Living Room Set,Word of Mouth,302.0,Quote Sent,3,0,Quote rejected outright,9
+LD-0016,2023-01-30,Mumbai,Wardrobe Unit,Instagram,170.0,Negotiation,4,0,Project postponed indefinitely,19
+LD-0017,2023-01-03,Chennai,Children's Room,Referral,136.0,Inquiry Only,1,0,Location too far,2
+LD-0018,2023-01-17,Chennai,Living Room Set,Google Ads,324.0,Quote Sent,3,0,Quote rejected outright,18
+LD-0019,2023-01-15,Ahmedabad,Home Office,Instagram,188.0,Inquiry Only,1,0,Location too far,2
+LD-0020,2023-01-19,Mumbai,Home Office,Referral,106.0,Negotiation,4,0,Project postponed indefinitely,14
+LD-0021,2023-01-18,Delhi,Bedroom System,Instagram,141.0,Inquiry Only,1,0,Went with local carpenter,2
+LD-0022,2023-01-04,Hyderabad,Living Room Set,Walk-in Showroom,282.0,Quote Sent,3,0,Price too high,17
+LD-0023,2023-01-24,Pune,Living Room Set,Google Ads,218.0,Inquiry Only,1,0,Location too far,2
+LD-0024,2023-01-09,Bengaluru,Bedroom System,Referral,194.0,Inquiry Only,1,0,Could not schedule,4
+LD-0025,2023-01-21,Hyderabad,Living Room Set,Walk-in Showroom,350.0,Inquiry Only,1,0,Could not schedule,2
+LD-0026,2023-01-13,Bengaluru,Living Room Set,Referral,330.0,Negotiation,4,0,Client relocated,21
+LD-0027,2023-01-18,Ahmedabad,Wardrobe Unit,Instagram,189.0,Inquiry Only,1,0,Location too far,3
+LD-0028,2023-01-02,Mumbai,Kitchen Storage,Referral,190.0,Negotiation,4,0,Competitor won on delivery time,13
+LD-0029,2023-01-20,Mumbai,Living Room Set,Word of Mouth,164.0,Inquiry Only,1,0,Went with local carpenter,1
+LD-0030,2023-01-02,Bengaluru,Home Office,Word of Mouth,154.0,Negotiation,4,0,Competitor won on delivery time,22
+LD-0031,2023-01-10,Delhi,Home Office,Referral,135.0,Inquiry Only,1,0,Could not schedule,1
+LD-0032,2023-01-03,Ahmedabad,Wardrobe Unit,Instagram,171.0,Inquiry Only,1,0,Location too far,3
+LD-0033,2023-01-06,Chennai,Bedroom System,Housing.com,190.0,Inquiry Only,1,0,No response after inquiry,5
+LD-0034,2023-01-22,Hyderabad,Home Office,Word of Mouth,178.0,Quote Sent,3,0,Quote rejected outright,11
+LD-0035,2023-01-09,Mumbai,Home Office,Referral,114.0,Quote Sent,3,0,Budget cut after quote,15
+LD-0036,2023-01-03,Chennai,Kitchen Storage,Instagram,176.0,Inquiry Only,1,0,Could not schedule,1
+LD-0037,2023-01-06,Mumbai,Wardrobe Unit,Instagram,201.0,Inquiry Only,1,0,Went with local carpenter,5
+LD-0038,2023-01-29,Mumbai,Children's Room,Referral,83.0,Quote Sent,3,0,Switched to flat-pack alternative,9
+LD-0039,2023-01-28,Delhi,Children's Room,Referral,74.0,Quote Sent,3,0,Budget cut after quote,15
+LD-0040,2023-01-05,Delhi,Home Office,Housing.com,191.0,Quote Sent,3,0,Quote rejected outright,13
+LD-0041,2023-03-01,Pune,Bedroom System,Referral,186.0,Site Visit Done,2,0,Scope too large,6
+LD-0042,2023-02-01,Pune,Bedroom System,Referral,257.0,Site Visit Done,2,0,Competitor visited first,6
+LD-0043,2023-01-31,Hyderabad,Living Room Set,Instagram,282.0,Negotiation,4,0,Project postponed indefinitely,28
+LD-0044,2023-01-31,Ahmedabad,Home Office,Instagram,94.0,Inquiry Only,1,0,Location too far,5
+LD-0045,2023-02-13,Delhi,Living Room Set,Word of Mouth,219.0,Inquiry Only,1,0,Went with local carpenter,5
+LD-0046,2023-02-06,Mumbai,Children's Room,Word of Mouth,93.0,Quote Sent,3,0,Quote rejected outright,12
+LD-0047,2023-02-19,Chennai,Children's Room,Instagram,98.0,Inquiry Only,1,0,No response after inquiry,5
+LD-0048,2023-02-09,Delhi,Bedroom System,Instagram,209.0,Site Visit Done,2,0,Competitor visited first,9
+LD-0049,2023-02-12,Mumbai,Home Office,Walk-in Showroom,146.0,Closed Won,5,1,,38
+LD-0050,2023-02-16,Bengaluru,Home Office,Instagram,137.0,Inquiry Only,1,0,Location too far,1
+LD-0051,2023-02-02,Pune,Home Office,Referral,178.0,Inquiry Only,1,0,No response after inquiry,2
+LD-0052,2023-02-15,Mumbai,Living Room Set,Walk-in Showroom,272.0,Quote Sent,3,0,Quote rejected outright,18
+LD-0053,2023-02-20,Bengaluru,Living Room Set,Google Ads,288.0,Inquiry Only,1,0,Could not schedule,4
+LD-0054,2023-02-14,Hyderabad,Home Office,Referral,86.0,Site Visit Done,2,0,Competitor visited first,5
+LD-0055,2023-02-19,Pune,Wardrobe Unit,Walk-in Showroom,138.0,Quote Sent,3,0,Switched to flat-pack alternative,15
+LD-0056,2023-02-14,Mumbai,Children's Room,Instagram,93.0,Site Visit Done,2,0,Competitor visited first,9
+LD-0057,2023-02-07,Bengaluru,Kitchen Storage,Referral,133.0,Closed Won,5,1,,40
+LD-0058,2023-02-10,Mumbai,Bedroom System,Referral,207.0,Negotiation,4,0,Negotiation failed on price,24
+LD-0059,2023-02-12,Chennai,Bedroom System,Instagram,257.0,Inquiry Only,1,0,Went with local carpenter,5
+LD-0060,2023-02-07,Bengaluru,Home Office,Walk-in Showroom,139.0,Closed Won,5,1,,43
+LD-0061,2023-02-04,Mumbai,Bedroom System,Instagram,277.0,Inquiry Only,1,0,Went with local carpenter,5
+LD-0062,2023-02-04,Mumbai,Home Office,Google Ads,184.0,Closed Won,5,1,,28
+LD-0063,2023-02-26,Delhi,Kitchen Storage,Walk-in Showroom,151.0,Inquiry Only,1,0,Went with local carpenter,1
+LD-0064,2023-02-07,Mumbai,Wardrobe Unit,Walk-in Showroom,188.0,Inquiry Only,1,0,Could not schedule,1
+LD-0065,2023-02-04,Mumbai,Living Room Set,Word of Mouth,198.0,Quote Sent,3,0,Switched to flat-pack alternative,18
+LD-0066,2023-02-23,Delhi,Home Office,Referral,166.0,Inquiry Only,1,0,Location too far,3
+LD-0067,2023-02-21,Mumbai,Bedroom System,Referral,265.0,Site Visit Done,2,0,Scope too large,4
+LD-0068,2023-02-22,Hyderabad,Living Room Set,Google Ads,304.0,Inquiry Only,1,0,Could not schedule,5
+LD-0069,2023-02-11,Delhi,Bedroom System,Walk-in Showroom,131.0,Closed Won,5,1,,31
+LD-0070,2023-02-22,Pune,Kitchen Storage,Word of Mouth,118.0,Quote Sent,3,0,Switched to flat-pack alternative,14
+LD-0071,2023-02-27,Pune,Living Room Set,Instagram,199.0,Inquiry Only,1,0,No response after inquiry,4
+LD-0072,2023-02-12,Bengaluru,Home Office,Referral,120.0,Closed Won,5,1,,26
+LD-0073,2023-02-08,Chennai,Kitchen Storage,Instagram,167.0,Inquiry Only,1,0,Location too far,1
+LD-0074,2023-02-07,Delhi,Home Office,Referral,163.0,Quote Sent,3,0,Price too high,11
+LD-0075,2023-02-18,Pune,Bedroom System,Referral,179.0,Quote Sent,3,0,Budget cut after quote,12
+LD-0076,2023-02-03,Delhi,Living Room Set,Walk-in Showroom,294.0,Quote Sent,3,0,Quote rejected outright,10
+LD-0077,2023-02-24,Bengaluru,Kitchen Storage,Referral,163.0,Closed Won,5,1,,23
+LD-0078,2023-02-01,Pune,Living Room Set,Instagram,345.0,Inquiry Only,1,0,Location too far,4
+LD-0079,2023-02-15,Mumbai,Bedroom System,Referral,190.0,Quote Sent,3,0,Switched to flat-pack alternative,8
+LD-0080,2023-02-20,Delhi,Living Room Set,Housing.com,287.0,Site Visit Done,2,0,Not ready to proceed,4
+LD-0081,2023-02-19,Mumbai,Kitchen Storage,Word of Mouth,172.0,Site Visit Done,2,0,Competitor visited first,7
+LD-0082,2023-03-15,Delhi,Home Office,Housing.com,117.0,Inquiry Only,1,0,Could not schedule,2
+LD-0083,2023-03-09,Delhi,Living Room Set,Google Ads,185.0,Quote Sent,3,0,Switched to flat-pack alternative,11
+LD-0084,2023-03-29,Delhi,Bedroom System,Referral,193.0,Inquiry Only,1,0,No response after inquiry,5
+LD-0085,2023-03-19,Chennai,Bedroom System,Google Ads,156.0,Closed Won,5,1,,43
+LD-0086,2023-03-11,Pune,Home Office,Instagram,133.0,Inquiry Only,1,0,No response after inquiry,4
+LD-0087,2023-03-04,Bengaluru,Bedroom System,Word of Mouth,216.0,Inquiry Only,1,0,No response after inquiry,5
+LD-0088,2023-03-28,Mumbai,Wardrobe Unit,Referral,219.0,Quote Sent,3,0,Budget cut after quote,16
+LD-0089,2023-03-22,Hyderabad,Bedroom System,Referral,191.0,Site Visit Done,2,0,Competitor visited first,9
+LD-0090,2023-03-15,Ahmedabad,Bedroom System,Walk-in Showroom,173.0,Site Visit Done,2,0,Not ready to proceed,7
+LD-0091,2023-03-28,Delhi,Children's Room,Google Ads,138.0,Closed Won,5,1,,42
+LD-0092,2023-03-23,Bengaluru,Wardrobe Unit,Instagram,220.0,Inquiry Only,1,0,Could not schedule,2
+LD-0093,2023-03-16,Pune,Bedroom System,Instagram,242.0,Quote Sent,3,0,Switched to flat-pack alternative,18
+LD-0094,2023-03-27,Mumbai,Home Office,Instagram,109.0,Quote Sent,3,0,Price too high,10
+LD-0095,2023-03-05,Chennai,Bedroom System,Word of Mouth,224.0,Site Visit Done,2,0,Not ready to proceed,8
+LD-0096,2023-03-17,Delhi,Bedroom System,Walk-in Showroom,159.0,Quote Sent,3,0,Quote rejected outright,8
+LD-0097,2023-03-31,Hyderabad,Bedroom System,Referral,246.0,Quote Sent,3,0,Switched to flat-pack alternative,9
+LD-0098,2023-03-26,Bengaluru,Bedroom System,Instagram,207.0,Inquiry Only,1,0,No response after inquiry,2
+LD-0099,2023-03-29,Delhi,Bedroom System,Word of Mouth,244.0,Quote Sent,3,0,Switched to flat-pack alternative,13
+LD-0100,2023-03-06,Hyderabad,Home Office,Word of Mouth,139.0,Quote Sent,3,0,Price too high,14
+LD-0101,2023-03-06,Chennai,Living Room Set,Referral,232.0,Negotiation,4,0,Project postponed indefinitely,24
+LD-0102,2023-03-29,Hyderabad,Children's Room,Google Ads,118.0,Inquiry Only,1,0,Went with local carpenter,5
+LD-0103,2023-03-31,Mumbai,Home Office,Referral,114.0,Quote Sent,3,0,Price too high,14
+LD-0104,2023-03-12,Delhi,Living Room Set,Referral,309.0,Closed Won,5,1,,36
+LD-0105,2023-03-21,Mumbai,Living Room Set,Google Ads,324.0,Inquiry Only,1,0,Location too far,4
+LD-0106,2023-03-10,Mumbai,Bedroom System,Housing.com,194.0,Inquiry Only,1,0,Went with local carpenter,3
+LD-0107,2023-03-13,Mumbai,Bedroom System,Google Ads,278.0,Site Visit Done,2,0,Not ready to proceed,7
+LD-0108,2023-03-17,Mumbai,Bedroom System,Housing.com,137.0,Inquiry Only,1,0,No response after inquiry,5
+LD-0109,2023-03-28,Pune,Living Room Set,Referral,282.0,Quote Sent,3,0,Price too high,16
+LD-0110,2023-03-26,Hyderabad,Children's Room,Walk-in Showroom,142.0,Quote Sent,3,0,Budget cut after quote,17
+LD-0111,2023-03-06,Hyderabad,Home Office,Walk-in Showroom,155.0,Inquiry Only,1,0,Could not schedule,3
+LD-0112,2023-03-06,Mumbai,Bedroom System,Walk-in Showroom,134.0,Closed Won,5,1,,35
+LD-0113,2023-03-10,Delhi,Home Office,Housing.com,180.0,Site Visit Done,2,0,Competitor visited first,10
+LD-0114,2023-03-16,Chennai,Kitchen Storage,Referral,216.0,Site Visit Done,2,0,Competitor visited first,10
+LD-0115,2023-03-02,Delhi,Kitchen Storage,Walk-in Showroom,132.0,Quote Sent,3,0,Budget cut after quote,16
+LD-0116,2023-03-23,Pune,Bedroom System,Instagram,157.0,Site Visit Done,2,0,Not ready to proceed,8
+LD-0117,2023-03-31,Mumbai,Kitchen Storage,Referral,184.0,Closed Won,5,1,,33
+LD-0118,2023-03-14,Delhi,Home Office,Referral,134.0,Site Visit Done,2,0,Competitor visited first,8
+LD-0119,2023-03-05,Mumbai,Bedroom System,Walk-in Showroom,253.0,Site Visit Done,2,0,Not ready to proceed,4
+LD-0120,2023-03-09,Mumbai,Bedroom System,Google Ads,257.0,Site Visit Done,2,0,Not ready to proceed,4
+LD-0121,2023-03-29,Mumbai,Living Room Set,Instagram,315.0,Quote Sent,3,0,Price too high,7
+LD-0122,2023-03-20,Delhi,Living Room Set,Walk-in Showroom,191.0,Inquiry Only,1,0,Location too far,5
+LD-0123,2023-03-06,Hyderabad,Bedroom System,Referral,246.0,Quote Sent,3,0,Quote rejected outright,15
+LD-0124,2023-04-01,Mumbai,Home Office,Referral,96.0,Site Visit Done,2,0,Not ready to proceed,4
+LD-0125,2023-04-17,Mumbai,Kitchen Storage,Referral,114.0,Closed Won,5,1,,32
+LD-0126,2023-04-26,Chennai,Living Room Set,Instagram,332.0,Inquiry Only,1,0,No response after inquiry,4
+LD-0127,2023-04-28,Mumbai,Wardrobe Unit,Google Ads,150.0,Inquiry Only,1,0,Went with local carpenter,4
+LD-0128,2023-04-03,Mumbai,Home Office,Referral,95.0,Quote Sent,3,0,Switched to flat-pack alternative,16
+LD-0129,2023-04-04,Bengaluru,Home Office,Google Ads,175.0,Site Visit Done,2,0,Scope too large,7
+LD-0130,2023-04-15,Delhi,Bedroom System,Instagram,184.0,Inquiry Only,1,0,No response after inquiry,4
+LD-0131,2023-04-22,Delhi,Wardrobe Unit,Instagram,228.0,Site Visit Done,2,0,Site visit done but ghosted,7
+LD-0132,2023-04-18,Pune,Kitchen Storage,Referral,107.0,Inquiry Only,1,0,No response after inquiry,1
+LD-0133,2023-04-14,Chennai,Children's Room,Instagram,148.0,Inquiry Only,1,0,No response after inquiry,5
+LD-0134,2023-04-05,Mumbai,Home Office,Instagram,159.0,Quote Sent,3,0,Budget cut after quote,8
+LD-0135,2023-04-28,Bengaluru,Kitchen Storage,Walk-in Showroom,167.0,Quote Sent,3,0,Price too high,16
+LD-0136,2023-04-06,Hyderabad,Living Room Set,Word of Mouth,205.0,Inquiry Only,1,0,No response after inquiry,3
+LD-0137,2023-04-13,Hyderabad,Home Office,Referral,88.0,Inquiry Only,1,0,Could not schedule,1
+LD-0138,2023-04-11,Mumbai,Bedroom System,Walk-in Showroom,145.0,Quote Sent,3,0,Price too high,7
+LD-0139,2023-04-03,Hyderabad,Living Room Set,Referral,204.0,Closed Won,5,1,,42
+LD-0140,2023-04-22,Delhi,Living Room Set,Instagram,286.0,Inquiry Only,1,0,No response after inquiry,1
+LD-0141,2023-04-07,Ahmedabad,Living Room Set,Referral,210.0,Closed Won,5,1,,18
+LD-0142,2023-04-18,Bengaluru,Living Room Set,Instagram,291.0,Inquiry Only,1,0,No response after inquiry,1
+LD-0143,2023-04-15,Pune,Bedroom System,Instagram,267.0,Inquiry Only,1,0,Went with local carpenter,5
+LD-0144,2023-04-13,Pune,Bedroom System,Instagram,123.0,Site Visit Done,2,0,Competitor visited first,10
+LD-0145,2023-04-04,Delhi,Bedroom System,Google Ads,159.0,Inquiry Only,1,0,Could not schedule,4
+LD-0146,2023-04-25,Pune,Living Room Set,Housing.com,184.0,Inquiry Only,1,0,Could not schedule,5
+LD-0147,2023-04-24,Chennai,Bedroom System,Instagram,273.0,Inquiry Only,1,0,Location too far,2
+LD-0148,2023-04-05,Delhi,Living Room Set,Referral,302.0,Quote Sent,3,0,Switched to flat-pack alternative,14
+LD-0149,2023-04-30,Hyderabad,Bedroom System,Walk-in Showroom,261.0,Site Visit Done,2,0,Not ready to proceed,10
+LD-0150,2023-04-16,Delhi,Bedroom System,Word of Mouth,191.0,Closed Won,5,1,,27
+LD-0151,2023-04-10,Mumbai,Bedroom System,Instagram,132.0,Inquiry Only,1,0,Could not schedule,5
+LD-0152,2023-04-26,Delhi,Home Office,Google Ads,169.0,Site Visit Done,2,0,Scope too large,6
+LD-0153,2023-04-15,Bengaluru,Wardrobe Unit,Google Ads,106.0,Inquiry Only,1,0,No response after inquiry,1
+LD-0154,2023-04-15,Mumbai,Living Room Set,Instagram,348.0,Inquiry Only,1,0,Location too far,3
+LD-0155,2023-04-11,Delhi,Bedroom System,Instagram,229.0,Site Visit Done,2,0,Not ready to proceed,4
+LD-0156,2023-04-09,Bengaluru,Bedroom System,Instagram,236.0,Inquiry Only,1,0,Location too far,3
+LD-0157,2023-04-10,Pune,Children's Room,Referral,157.0,Inquiry Only,1,0,Went with local carpenter,2
+LD-0158,2023-04-13,Chennai,Bedroom System,Google Ads,223.0,Quote Sent,3,0,Price too high,17
+LD-0159,2023-04-10,Bengaluru,Living Room Set,Google Ads,186.0,Site Visit Done,2,0,Competitor visited first,5
+LD-0160,2023-04-28,Mumbai,Living Room Set,Referral,308.0,Quote Sent,3,0,Price too high,17
+LD-0161,2023-04-13,Hyderabad,Living Room Set,Instagram,181.0,Site Visit Done,2,0,Scope too large,9
+LD-0162,2023-04-08,Delhi,Home Office,Instagram,196.0,Inquiry Only,1,0,Went with local carpenter,2
+LD-0163,2023-04-16,Delhi,Kitchen Storage,Google Ads,208.0,Site Visit Done,2,0,Competitor visited first,7
+LD-0164,2023-04-14,Hyderabad,Home Office,Walk-in Showroom,196.0,Inquiry Only,1,0,Location too far,3
+LD-0165,2023-04-30,Bengaluru,Bedroom System,Referral,136.0,Inquiry Only,1,0,Could not schedule,3
+LD-0166,2023-04-17,Mumbai,Bedroom System,Referral,144.0,Site Visit Done,2,0,Scope too large,10
+LD-0167,2023-05-02,Delhi,Living Room Set,Instagram,229.0,Closed Won,5,1,,28
+LD-0168,2023-05-26,Hyderabad,Home Office,Word of Mouth,98.0,Site Visit Done,2,0,Competitor visited first,9
+LD-0169,2023-05-20,Hyderabad,Bedroom System,Housing.com,121.0,Quote Sent,3,0,Switched to flat-pack alternative,8
+LD-0170,2023-05-08,Delhi,Living Room Set,Walk-in Showroom,234.0,Inquiry Only,1,0,Went with local carpenter,1
+LD-0171,2023-05-01,Chennai,Home Office,Referral,156.0,Closed Won,5,1,,29
+LD-0172,2023-05-03,Delhi,Home Office,Referral,143.0,Site Visit Done,2,0,Site visit done but ghosted,7
+LD-0173,2023-05-12,Mumbai,Bedroom System,Housing.com,161.0,Site Visit Done,2,0,Not ready to proceed,5
+LD-0174,2023-05-24,Pune,Kitchen Storage,Walk-in Showroom,191.0,Closed Won,5,1,,44
+LD-0175,2023-05-21,Bengaluru,Home Office,Walk-in Showroom,102.0,Quote Sent,3,0,Price too high,11
+LD-0176,2023-05-11,Hyderabad,Children's Room,Referral,154.0,Site Visit Done,2,0,Competitor visited first,6
+LD-0177,2023-05-28,Pune,Bedroom System,Referral,245.0,Inquiry Only,1,0,No response after inquiry,3
+LD-0178,2023-05-24,Delhi,Children's Room,Referral,110.0,Inquiry Only,1,0,No response after inquiry,2
+LD-0179,2023-05-17,Bengaluru,Children's Room,Instagram,94.0,Quote Sent,3,0,Quote rejected outright,15
+LD-0180,2023-05-10,Mumbai,Bedroom System,Referral,169.0,Quote Sent,3,0,Budget cut after quote,14
+LD-0181,2023-05-14,Chennai,Bedroom System,Referral,164.0,Inquiry Only,1,0,Could not schedule,1
+LD-0182,2023-05-24,Delhi,Home Office,Google Ads,162.0,Inquiry Only,1,0,Location too far,5
+LD-0183,2023-05-08,Bengaluru,Living Room Set,Google Ads,306.0,Quote Sent,3,0,Quote rejected outright,17
+LD-0184,2023-05-03,Delhi,Bedroom System,Instagram,212.0,Inquiry Only,1,0,Went with local carpenter,3
+LD-0185,2023-05-24,Delhi,Living Room Set,Google Ads,187.0,Inquiry Only,1,0,Could not schedule,3
+LD-0186,2023-05-20,Pune,Living Room Set,Walk-in Showroom,207.0,Inquiry Only,1,0,Went with local carpenter,2
+LD-0187,2023-05-29,Hyderabad,Bedroom System,Referral,234.0,Inquiry Only,1,0,No response after inquiry,3
+LD-0188,2023-05-10,Bengaluru,Bedroom System,Walk-in Showroom,256.0,Site Visit Done,2,0,Scope too large,10
+LD-0189,2023-05-26,Delhi,Wardrobe Unit,Instagram,111.0,Inquiry Only,1,0,Could not schedule,3
+LD-0190,2023-05-18,Delhi,Kitchen Storage,Google Ads,116.0,Inquiry Only,1,0,Could not schedule,3
+LD-0191,2023-05-14,Pune,Bedroom System,Instagram,243.0,Inquiry Only,1,0,Could not schedule,2
+LD-0192,2023-05-22,Pune,Bedroom System,Word of Mouth,203.0,Site Visit Done,2,0,Scope too large,10
+LD-0193,2023-05-02,Bengaluru,Children's Room,Word of Mouth,145.0,Negotiation,4,0,Competitor won on delivery time,23
+LD-0194,2023-05-03,Bengaluru,Bedroom System,Word of Mouth,160.0,Closed Won,5,1,,35
+LD-0195,2023-05-19,Pune,Home Office,Referral,99.0,Site Visit Done,2,0,Not ready to proceed,10
+LD-0196,2023-05-03,Mumbai,Children's Room,Word of Mouth,74.0,Quote Sent,3,0,Switched to flat-pack alternative,16
+LD-0197,2023-05-10,Bengaluru,Home Office,Google Ads,157.0,Quote Sent,3,0,Switched to flat-pack alternative,11
+LD-0198,2023-05-14,Pune,Living Room Set,Instagram,247.0,Site Visit Done,2,0,Not ready to proceed,10
+LD-0199,2023-05-13,Pune,Children's Room,Walk-in Showroom,82.0,Closed Won,5,1,,26
+LD-0200,2023-05-13,Mumbai,Living Room Set,Instagram,323.0,Site Visit Done,2,0,Scope too large,10
+LD-0201,2023-05-25,Bengaluru,Bedroom System,Instagram,145.0,Inquiry Only,1,0,Went with local carpenter,4
+LD-0202,2023-05-13,Bengaluru,Living Room Set,Housing.com,251.0,Inquiry Only,1,0,Location too far,5
+LD-0203,2023-05-29,Mumbai,Bedroom System,Instagram,255.0,Inquiry Only,1,0,No response after inquiry,5
+LD-0204,2023-05-09,Mumbai,Living Room Set,Referral,296.0,Inquiry Only,1,0,No response after inquiry,1
+LD-0205,2023-05-18,Bengaluru,Living Room Set,Instagram,208.0,Quote Sent,3,0,Price too high,9
+LD-0206,2023-05-11,Delhi,Kitchen Storage,Word of Mouth,167.0,Quote Sent,3,0,Switched to flat-pack alternative,15
+LD-0207,2023-05-26,Mumbai,Kitchen Storage,Referral,157.0,Closed Won,5,1,,37
+LD-0208,2023-05-27,Delhi,Home Office,Instagram,116.0,Site Visit Done,2,0,Competitor visited first,9
+LD-0209,2023-05-11,Bengaluru,Living Room Set,Google Ads,285.0,Inquiry Only,1,0,No response after inquiry,1
+LD-0210,2023-05-25,Delhi,Home Office,Google Ads,149.0,Quote Sent,3,0,Switched to flat-pack alternative,9
+LD-0211,2023-06-22,Delhi,Home Office,Housing.com,93.0,Negotiation,4,0,Client relocated,28
+LD-0212,2023-06-23,Chennai,Children's Room,Walk-in Showroom,135.0,Negotiation,4,0,Client relocated,28
+LD-0213,2023-06-17,Ahmedabad,Bedroom System,Instagram,175.0,Site Visit Done,2,0,Not ready to proceed,8
+LD-0214,2023-06-09,Ahmedabad,Living Room Set,Instagram,195.0,Inquiry Only,1,0,No response after inquiry,3
+LD-0215,2023-06-15,Pune,Bedroom System,Walk-in Showroom,176.0,Inquiry Only,1,0,No response after inquiry,3
+LD-0216,2023-06-12,Pune,Bedroom System,Referral,251.0,Inquiry Only,1,0,Location too far,3
+LD-0217,2023-06-29,Ahmedabad,Living Room Set,Referral,238.0,Negotiation,4,0,Project postponed indefinitely,16
+LD-0218,2023-06-01,Pune,Living Room Set,Referral,284.0,Closed Won,5,1,,40
+LD-0219,2023-06-17,Pune,Living Room Set,Instagram,346.0,Site Visit Done,2,0,Competitor visited first,7
+LD-0220,2023-06-09,Hyderabad,Bedroom System,Google Ads,223.0,Inquiry Only,1,0,Could not schedule,5
+LD-0221,2023-06-01,Pune,Children's Room,Referral,152.0,Site Visit Done,2,0,Scope too large,4
+LD-0222,2023-06-29,Delhi,Bedroom System,Word of Mouth,240.0,Inquiry Only,1,0,No response after inquiry,1
+LD-0223,2023-06-10,Bengaluru,Living Room Set,Referral,207.0,Inquiry Only,1,0,Went with local carpenter,2
+LD-0224,2023-06-03,Bengaluru,Living Room Set,Housing.com,216.0,Inquiry Only,1,0,No response after inquiry,2
+LD-0225,2023-06-21,Delhi,Bedroom System,Referral,241.0,Site Visit Done,2,0,Competitor visited first,10
+LD-0226,2023-06-03,Delhi,Bedroom System,Instagram,150.0,Closed Won,5,1,,25
+LD-0227,2023-06-18,Delhi,Bedroom System,Instagram,236.0,Site Visit Done,2,0,Scope too large,4
+LD-0228,2023-06-21,Bengaluru,Living Room Set,Google Ads,251.0,Inquiry Only,1,0,No response after inquiry,1
+LD-0229,2023-06-07,Chennai,Bedroom System,Google Ads,155.0,Quote Sent,3,0,Budget cut after quote,13
+LD-0230,2023-06-25,Chennai,Kitchen Storage,Walk-in Showroom,180.0,Quote Sent,3,0,Price too high,15
+LD-0231,2023-06-18,Pune,Living Room Set,Instagram,172.0,Inquiry Only,1,0,Location too far,5
+LD-0232,2023-06-14,Mumbai,Children's Room,Google Ads,80.0,Closed Won,5,1,,43
+LD-0233,2023-06-18,Mumbai,Bedroom System,Referral,129.0,Site Visit Done,2,0,Site visit done but ghosted,7
+LD-0234,2023-06-02,Mumbai,Living Room Set,Referral,159.0,Quote Sent,3,0,Price too high,14
+LD-0235,2023-06-24,Delhi,Kitchen Storage,Referral,177.0,Inquiry Only,1,0,Went with local carpenter,3
+LD-0236,2023-06-29,Delhi,Children's Room,Word of Mouth,104.0,Site Visit Done,2,0,Scope too large,9
+LD-0237,2023-06-12,Mumbai,Wardrobe Unit,Housing.com,169.0,Inquiry Only,1,0,Location too far,1
+LD-0238,2023-06-23,Ahmedabad,Bedroom System,Walk-in Showroom,207.0,Site Visit Done,2,0,Scope too large,7
+LD-0239,2023-06-23,Delhi,Children's Room,Instagram,139.0,Site Visit Done,2,0,Site visit done but ghosted,5
+LD-0240,2023-06-19,Mumbai,Living Room Set,Referral,284.0,Inquiry Only,1,0,Location too far,1
+LD-0241,2023-06-27,Delhi,Living Room Set,Instagram,305.0,Site Visit Done,2,0,Scope too large,10
+LD-0242,2023-06-24,Bengaluru,Home Office,Housing.com,161.0,Negotiation,4,0,Competitor won on delivery time,25
+LD-0243,2023-06-28,Mumbai,Children's Room,Instagram,136.0,Site Visit Done,2,0,Competitor visited first,4
+LD-0244,2023-06-25,Chennai,Home Office,Word of Mouth,143.0,Closed Won,5,1,,35
+LD-0245,2023-06-22,Hyderabad,Bedroom System,Instagram,143.0,Inquiry Only,1,0,Could not schedule,5
+LD-0246,2023-06-12,Delhi,Home Office,Instagram,109.0,Site Visit Done,2,0,Competitor visited first,10
+LD-0247,2023-06-01,Bengaluru,Kitchen Storage,Instagram,132.0,Inquiry Only,1,0,Could not schedule,1
+LD-0248,2023-06-17,Hyderabad,Kitchen Storage,Referral,126.0,Site Visit Done,2,0,Not ready to proceed,4
+LD-0249,2023-06-23,Mumbai,Kitchen Storage,Referral,220.0,Quote Sent,3,0,Quote rejected outright,13
+LD-0250,2023-06-12,Bengaluru,Kitchen Storage,Housing.com,156.0,Inquiry Only,1,0,No response after inquiry,3
+LD-0251,2023-06-25,Chennai,Bedroom System,Instagram,277.0,Inquiry Only,1,0,No response after inquiry,2
+LD-0252,2023-06-07,Delhi,Home Office,Instagram,169.0,Quote Sent,3,0,Switched to flat-pack alternative,11
+LD-0253,2023-06-26,Delhi,Bedroom System,Referral,159.0,Site Visit Done,2,0,Not ready to proceed,6
+LD-0254,2023-06-23,Bengaluru,Kitchen Storage,Walk-in Showroom,159.0,Closed Won,5,1,,33
+LD-0255,2023-06-01,Chennai,Wardrobe Unit,Referral,169.0,Inquiry Only,1,0,Could not schedule,1
+LD-0256,2023-07-07,Delhi,Kitchen Storage,Walk-in Showroom,108.0,Closed Won,5,1,,38
+LD-0257,2023-07-15,Pune,Bedroom System,Google Ads,123.0,Inquiry Only,1,0,Went with local carpenter,1
+LD-0258,2023-07-09,Pune,Home Office,Referral,82.0,Inquiry Only,1,0,Went with local carpenter,2
+LD-0259,2023-07-06,Mumbai,Living Room Set,Referral,274.0,Quote Sent,3,0,Price too high,12
+LD-0260,2023-07-22,Bengaluru,Living Room Set,Word of Mouth,195.0,Site Visit Done,2,0,Site visit done but ghosted,4
+LD-0261,2023-07-20,Delhi,Bedroom System,Instagram,122.0,Quote Sent,3,0,Budget cut after quote,16
+LD-0262,2023-07-29,Ahmedabad,Children's Room,Word of Mouth,74.0,Site Visit Done,2,0,Competitor visited first,6
+LD-0263,2023-07-28,Mumbai,Children's Room,Referral,119.0,Quote Sent,3,0,Price too high,10
+LD-0264,2023-07-12,Hyderabad,Kitchen Storage,Google Ads,211.0,Quote Sent,3,0,Switched to flat-pack alternative,17
+LD-0265,2023-07-04,Delhi,Kitchen Storage,Housing.com,195.0,Inquiry Only,1,0,Could not schedule,5
+LD-0266,2023-07-07,Delhi,Living Room Set,Walk-in Showroom,318.0,Quote Sent,3,0,Switched to flat-pack alternative,12
+LD-0267,2023-07-15,Delhi,Wardrobe Unit,Referral,124.0,Closed Won,5,1,,30
+LD-0268,2023-07-22,Pune,Kitchen Storage,Referral,109.0,Quote Sent,3,0,Quote rejected outright,18
+LD-0269,2023-07-09,Delhi,Living Room Set,Instagram,239.0,Inquiry Only,1,0,Could not schedule,2
+LD-0270,2023-07-16,Bengaluru,Home Office,Referral,129.0,Closed Won,5,1,,28
+LD-0271,2023-07-24,Mumbai,Bedroom System,Housing.com,134.0,Inquiry Only,1,0,Location too far,5
+LD-0272,2023-07-08,Pune,Living Room Set,Google Ads,210.0,Inquiry Only,1,0,Could not schedule,2
+LD-0273,2023-07-02,Bengaluru,Bedroom System,Instagram,178.0,Inquiry Only,1,0,Went with local carpenter,5
+LD-0274,2023-06-30,Bengaluru,Living Room Set,Google Ads,340.0,Site Visit Done,2,0,Not ready to proceed,7
+LD-0275,2023-07-19,Hyderabad,Children's Room,Instagram,82.0,Site Visit Done,2,0,Scope too large,7
+LD-0276,2023-07-09,Ahmedabad,Wardrobe Unit,Instagram,200.0,Inquiry Only,1,0,Location too far,3
+LD-0277,2023-07-03,Hyderabad,Bedroom System,Instagram,269.0,Site Visit Done,2,0,Scope too large,9
+LD-0278,2023-07-22,Mumbai,Kitchen Storage,Walk-in Showroom,125.0,Inquiry Only,1,0,Could not schedule,4
+LD-0279,2023-07-08,Mumbai,Bedroom System,Google Ads,225.0,Inquiry Only,1,0,Went with local carpenter,1
+LD-0280,2023-07-17,Bengaluru,Home Office,Instagram,141.0,Inquiry Only,1,0,Went with local carpenter,5
+LD-0281,2023-07-25,Ahmedabad,Kitchen Storage,Referral,164.0,Quote Sent,3,0,Budget cut after quote,9
+LD-0282,2023-07-21,Mumbai,Wardrobe Unit,Google Ads,187.0,Inquiry Only,1,0,No response after inquiry,4
+LD-0283,2023-07-23,Mumbai,Living Room Set,Referral,254.0,Closed Won,5,1,,42
+LD-0284,2023-06-30,Pune,Living Room Set,Google Ads,247.0,Site Visit Done,2,0,Site visit done but ghosted,4
+LD-0285,2023-07-10,Pune,Bedroom System,Housing.com,193.0,Quote Sent,3,0,Switched to flat-pack alternative,18
+LD-0286,2023-07-25,Delhi,Bedroom System,Google Ads,234.0,Negotiation,4,0,Competitor won on delivery time,28
+LD-0287,2023-07-14,Mumbai,Home Office,Referral,108.0,Quote Sent,3,0,Switched to flat-pack alternative,13
+LD-0288,2023-07-18,Pune,Living Room Set,Referral,236.0,Negotiation,4,0,Negotiation failed on price,15
+LD-0289,2023-07-06,Bengaluru,Bedroom System,Walk-in Showroom,193.0,Site Visit Done,2,0,Not ready to proceed,8
+LD-0290,2023-07-11,Delhi,Living Room Set,Instagram,319.0,Inquiry Only,1,0,No response after inquiry,5
+LD-0291,2023-07-07,Pune,Bedroom System,Google Ads,169.0,Site Visit Done,2,0,Competitor visited first,7
+LD-0292,2023-07-15,Bengaluru,Bedroom System,Google Ads,222.0,Inquiry Only,1,0,Location too far,5
+LD-0293,2023-07-26,Delhi,Living Room Set,Referral,240.0,Closed Won,5,1,,44
+LD-0294,2023-07-13,Bengaluru,Home Office,Instagram,162.0,Site Visit Done,2,0,Competitor visited first,5
+LD-0295,2023-07-09,Mumbai,Kitchen Storage,Referral,104.0,Quote Sent,3,0,Switched to flat-pack alternative,15
+LD-0296,2023-07-17,Bengaluru,Living Room Set,Instagram,315.0,Site Visit Done,2,0,Site visit done but ghosted,10
+LD-0297,2023-07-03,Bengaluru,Wardrobe Unit,Walk-in Showroom,200.0,Quote Sent,3,0,Price too high,14
+LD-0298,2023-07-27,Hyderabad,Living Room Set,Referral,349.0,Inquiry Only,1,0,Location too far,2
+LD-0299,2023-07-22,Bengaluru,Bedroom System,Walk-in Showroom,218.0,Quote Sent,3,0,Quote rejected outright,7
+LD-0300,2023-07-05,Bengaluru,Home Office,Google Ads,119.0,Inquiry Only,1,0,No response after inquiry,5
+LD-0301,2023-07-21,Hyderabad,Wardrobe Unit,Referral,212.0,Site Visit Done,2,0,Competitor visited first,4
+LD-0302,2023-08-26,Hyderabad,Living Room Set,Word of Mouth,177.0,Negotiation,4,0,Client relocated,27
+LD-0303,2023-08-11,Pune,Home Office,Referral,134.0,Site Visit Done,2,0,Site visit done but ghosted,7
+LD-0304,2023-08-10,Delhi,Children's Room,Instagram,111.0,Inquiry Only,1,0,Could not schedule,1
+LD-0305,2023-08-10,Bengaluru,Home Office,Walk-in Showroom,182.0,Inquiry Only,1,0,Went with local carpenter,2
+LD-0306,2023-08-09,Hyderabad,Bedroom System,Word of Mouth,253.0,Closed Won,5,1,,28
+LD-0307,2023-08-19,Hyderabad,Living Room Set,Housing.com,307.0,Inquiry Only,1,0,Could not schedule,2
+LD-0308,2023-08-05,Mumbai,Wardrobe Unit,Instagram,239.0,Inquiry Only,1,0,No response after inquiry,2
+LD-0309,2023-08-10,Chennai,Living Room Set,Housing.com,200.0,Site Visit Done,2,0,Scope too large,4
+LD-0310,2023-08-06,Delhi,Home Office,Instagram,132.0,Closed Won,5,1,,36
+LD-0311,2023-08-21,Pune,Living Room Set,Referral,219.0,Site Visit Done,2,0,Scope too large,7
+LD-0312,2023-08-02,Delhi,Kitchen Storage,Referral,112.0,Negotiation,4,0,Competitor won on delivery time,16
+LD-0313,2023-08-04,Bengaluru,Home Office,Referral,133.0,Inquiry Only,1,0,Location too far,4
+LD-0314,2023-08-27,Bengaluru,Living Room Set,Google Ads,170.0,Inquiry Only,1,0,Went with local carpenter,3
+LD-0315,2023-08-07,Delhi,Living Room Set,Word of Mouth,279.0,Quote Sent,3,0,Budget cut after quote,18
+LD-0316,2023-08-05,Hyderabad,Children's Room,Referral,117.0,Site Visit Done,2,0,Not ready to proceed,9
+LD-0317,2023-08-14,Chennai,Wardrobe Unit,Referral,148.0,Negotiation,4,0,Negotiation failed on price,23
+LD-0318,2023-08-17,Mumbai,Children's Room,Word of Mouth,108.0,Negotiation,4,0,Negotiation failed on price,12
+LD-0319,2023-08-28,Mumbai,Living Room Set,Google Ads,162.0,Inquiry Only,1,0,No response after inquiry,5
+LD-0320,2023-08-19,Bengaluru,Bedroom System,Walk-in Showroom,206.0,Closed Won,5,1,,24
+LD-0321,2023-08-17,Mumbai,Bedroom System,Word of Mouth,221.0,Inquiry Only,1,0,Could not schedule,3
+LD-0322,2023-07-31,Pune,Kitchen Storage,Google Ads,129.0,Inquiry Only,1,0,Could not schedule,4
+LD-0323,2023-08-20,Mumbai,Home Office,Google Ads,169.0,Site Visit Done,2,0,Site visit done but ghosted,5
+LD-0324,2023-08-25,Delhi,Home Office,Instagram,166.0,Quote Sent,3,0,Budget cut after quote,18
+LD-0325,2023-08-24,Hyderabad,Living Room Set,Housing.com,236.0,Inquiry Only,1,0,No response after inquiry,5
+LD-0326,2023-07-31,Bengaluru,Home Office,Google Ads,140.0,Inquiry Only,1,0,No response after inquiry,2
+LD-0327,2023-08-22,Mumbai,Home Office,Referral,94.0,Inquiry Only,1,0,Could not schedule,1
+LD-0328,2023-08-10,Mumbai,Living Room Set,Housing.com,227.0,Site Visit Done,2,0,Site visit done but ghosted,8
+LD-0329,2023-08-06,Pune,Home Office,Walk-in Showroom,119.0,Closed Won,5,1,,29
+LD-0330,2023-08-06,Pune,Living Room Set,Referral,311.0,Inquiry Only,1,0,Went with local carpenter,1
+LD-0331,2023-08-08,Hyderabad,Kitchen Storage,Housing.com,139.0,Inquiry Only,1,0,Could not schedule,3
+LD-0332,2023-08-18,Bengaluru,Bedroom System,Referral,159.0,Site Visit Done,2,0,Scope too large,9
+LD-0333,2023-07-30,Hyderabad,Living Room Set,Housing.com,336.0,Quote Sent,3,0,Price too high,12
+LD-0334,2023-08-22,Pune,Kitchen Storage,Referral,137.0,Site Visit Done,2,0,Competitor visited first,7
+LD-0335,2023-08-07,Ahmedabad,Living Room Set,Word of Mouth,169.0,Inquiry Only,1,0,Went with local carpenter,3
+LD-0336,2023-08-15,Pune,Home Office,Instagram,96.0,Inquiry Only,1,0,Could not schedule,5
+LD-0337,2023-08-06,Bengaluru,Wardrobe Unit,Google Ads,134.0,Inquiry Only,1,0,Went with local carpenter,3
+LD-0338,2023-08-05,Delhi,Living Room Set,Instagram,177.0,Inquiry Only,1,0,Could not schedule,2
+LD-0339,2023-08-02,Bengaluru,Bedroom System,Referral,206.0,Inquiry Only,1,0,Location too far,4
+LD-0340,2023-08-04,Delhi,Living Room Set,Instagram,312.0,Site Visit Done,2,0,Site visit done but ghosted,5
+LD-0341,2023-08-06,Delhi,Living Room Set,Housing.com,344.0,Inquiry Only,1,0,Could not schedule,3
+LD-0342,2023-08-11,Ahmedabad,Living Room Set,Referral,321.0,Closed Won,5,1,,43
+LD-0343,2023-08-06,Mumbai,Kitchen Storage,Referral,116.0,Inquiry Only,1,0,No response after inquiry,1
+LD-0344,2023-07-30,Delhi,Kitchen Storage,Google Ads,220.0,Site Visit Done,2,0,Scope too large,4
+LD-0345,2023-07-31,Hyderabad,Bedroom System,Housing.com,271.0,Site Visit Done,2,0,Competitor visited first,10
+LD-0346,2023-08-12,Bengaluru,Bedroom System,Walk-in Showroom,148.0,Negotiation,4,0,Negotiation failed on price,19
+LD-0347,2023-08-14,Bengaluru,Children's Room,Google Ads,75.0,Negotiation,4,0,Competitor won on delivery time,12
+LD-0348,2023-08-16,Hyderabad,Bedroom System,Word of Mouth,245.0,Closed Won,5,1,,18
+LD-0349,2023-09-22,Mumbai,Children's Room,Instagram,95.0,Inquiry Only,1,0,Went with local carpenter,5
+LD-0350,2023-09-03,Bengaluru,Living Room Set,Instagram,170.0,Inquiry Only,1,0,No response after inquiry,5
+LD-0351,2023-09-05,Chennai,Living Room Set,Walk-in Showroom,265.0,Inquiry Only,1,0,Went with local carpenter,3
+LD-0352,2023-09-05,Ahmedabad,Living Room Set,Word of Mouth,269.0,Inquiry Only,1,0,No response after inquiry,5
+LD-0353,2023-09-16,Pune,Children's Room,Referral,83.0,Inquiry Only,1,0,Went with local carpenter,5
+LD-0354,2023-09-05,Bengaluru,Living Room Set,Instagram,270.0,Negotiation,4,0,Competitor won on delivery time,22
+LD-0355,2023-09-08,Chennai,Kitchen Storage,Walk-in Showroom,107.0,Closed Won,5,1,,34
+LD-0356,2023-09-19,Ahmedabad,Bedroom System,Housing.com,183.0,Closed Won,5,1,,31
+LD-0357,2023-09-03,Ahmedabad,Home Office,Walk-in Showroom,165.0,Site Visit Done,2,0,Not ready to proceed,5
+LD-0358,2023-09-21,Hyderabad,Bedroom System,Google Ads,230.0,Site Visit Done,2,0,Competitor visited first,10
+LD-0359,2023-09-17,Ahmedabad,Living Room Set,Word of Mouth,214.0,Inquiry Only,1,0,Location too far,5
+LD-0360,2023-08-31,Bengaluru,Bedroom System,Referral,158.0,Inquiry Only,1,0,Location too far,1
+LD-0361,2023-09-08,Pune,Kitchen Storage,Housing.com,154.0,Closed Won,5,1,,21
+LD-0362,2023-09-11,Mumbai,Bedroom System,Walk-in Showroom,275.0,Inquiry Only,1,0,Went with local carpenter,4
+LD-0363,2023-09-23,Delhi,Kitchen Storage,Instagram,204.0,Inquiry Only,1,0,Location too far,2
+LD-0364,2023-08-29,Hyderabad,Living Room Set,Instagram,214.0,Inquiry Only,1,0,Could not schedule,3
+LD-0365,2023-09-15,Delhi,Kitchen Storage,Referral,213.0,Inquiry Only,1,0,No response after inquiry,5
+LD-0366,2023-09-11,Chennai,Kitchen Storage,Word of Mouth,213.0,Site Visit Done,2,0,Scope too large,4
+LD-0367,2023-09-20,Mumbai,Living Room Set,Referral,261.0,Inquiry Only,1,0,No response after inquiry,3
+LD-0368,2023-09-15,Mumbai,Bedroom System,Referral,254.0,Closed Won,5,1,,39
+LD-0369,2023-09-04,Bengaluru,Living Room Set,Google Ads,184.0,Quote Sent,3,0,Budget cut after quote,13
+LD-0370,2023-09-18,Chennai,Living Room Set,Instagram,259.0,Site Visit Done,2,0,Not ready to proceed,5
+LD-0371,2023-09-05,Delhi,Bedroom System,Instagram,254.0,Inquiry Only,1,0,Location too far,1
+LD-0372,2023-09-22,Delhi,Home Office,Referral,151.0,Site Visit Done,2,0,Competitor visited first,8
+LD-0373,2023-09-05,Chennai,Home Office,Google Ads,137.0,Site Visit Done,2,0,Site visit done but ghosted,8
+LD-0374,2023-09-17,Bengaluru,Home Office,Google Ads,98.0,Inquiry Only,1,0,Went with local carpenter,2
+LD-0375,2023-09-04,Mumbai,Living Room Set,Word of Mouth,175.0,Site Visit Done,2,0,Competitor visited first,5
+LD-0376,2023-09-06,Pune,Kitchen Storage,Word of Mouth,138.0,Inquiry Only,1,0,Could not schedule,1
+LD-0377,2023-09-06,Delhi,Bedroom System,Instagram,203.0,Inquiry Only,1,0,Could not schedule,5
+LD-0378,2023-09-02,Hyderabad,Living Room Set,Google Ads,180.0,Inquiry Only,1,0,Could not schedule,1
+LD-0379,2023-09-15,Mumbai,Bedroom System,Google Ads,261.0,Inquiry Only,1,0,No response after inquiry,4
+LD-0380,2023-09-03,Bengaluru,Bedroom System,Google Ads,164.0,Quote Sent,3,0,Price too high,13
+LD-0381,2023-09-21,Delhi,Living Room Set,Housing.com,245.0,Negotiation,4,0,Project postponed indefinitely,20
+LD-0382,2023-09-25,Hyderabad,Home Office,Housing.com,107.0,Site Visit Done,2,0,Not ready to proceed,6
+LD-0383,2023-09-12,Pune,Living Room Set,Walk-in Showroom,192.0,Inquiry Only,1,0,Went with local carpenter,5
+LD-0384,2023-09-03,Hyderabad,Home Office,Housing.com,88.0,Inquiry Only,1,0,Went with local carpenter,2
+LD-0385,2023-09-03,Bengaluru,Home Office,Walk-in Showroom,103.0,Inquiry Only,1,0,Could not schedule,2
+LD-0386,2023-09-04,Mumbai,Bedroom System,Referral,164.0,Inquiry Only,1,0,Went with local carpenter,1
+LD-0387,2023-09-12,Delhi,Bedroom System,Google Ads,148.0,Inquiry Only,1,0,No response after inquiry,3
+LD-0388,2023-09-20,Chennai,Kitchen Storage,Referral,111.0,Quote Sent,3,0,Quote rejected outright,10
+LD-0389,2023-09-11,Pune,Living Room Set,Google Ads,253.0,Inquiry Only,1,0,Could not schedule,4
+LD-0390,2023-08-29,Pune,Home Office,Housing.com,107.0,Inquiry Only,1,0,No response after inquiry,3
+LD-0391,2023-09-06,Delhi,Bedroom System,Instagram,155.0,Quote Sent,3,0,Price too high,7
+LD-0392,2023-09-09,Pune,Kitchen Storage,Instagram,167.0,Inquiry Only,1,0,No response after inquiry,3
+LD-0393,2023-09-06,Bengaluru,Bedroom System,Google Ads,222.0,Inquiry Only,1,0,No response after inquiry,3
+LD-0394,2023-08-30,Bengaluru,Living Room Set,Referral,311.0,Inquiry Only,1,0,Went with local carpenter,3
+LD-0395,2023-09-07,Pune,Home Office,Google Ads,111.0,Negotiation,4,0,Competitor won on delivery time,22
+LD-0396,2023-09-23,Delhi,Home Office,Walk-in Showroom,137.0,Inquiry Only,1,0,No response after inquiry,5
+LD-0397,2023-10-15,Mumbai,Home Office,Instagram,102.0,Negotiation,4,0,Competitor won on delivery time,22
+LD-0398,2023-10-25,Delhi,Living Room Set,Google Ads,211.0,Inquiry Only,1,0,No response after inquiry,3
+LD-0399,2023-10-13,Delhi,Children's Room,Referral,75.0,Quote Sent,3,0,Switched to flat-pack alternative,10
+LD-0400,2023-10-07,Hyderabad,Bedroom System,Instagram,186.0,Inquiry Only,1,0,Location too far,2
+LD-0401,2023-10-26,Delhi,Wardrobe Unit,Word of Mouth,226.0,Quote Sent,3,0,Price too high,14
+LD-0402,2023-09-29,Ahmedabad,Bedroom System,Instagram,121.0,Site Visit Done,2,0,Scope too large,8
+LD-0403,2023-09-30,Bengaluru,Kitchen Storage,Walk-in Showroom,116.0,Closed Won,5,1,,18
+LD-0404,2023-09-28,Mumbai,Bedroom System,Referral,263.0,Inquiry Only,1,0,Location too far,1
+LD-0405,2023-10-20,Pune,Living Room Set,Google Ads,325.0,Quote Sent,3,0,Budget cut after quote,9
+LD-0406,2023-10-12,Mumbai,Children's Room,Referral,136.0,Quote Sent,3,0,Quote rejected outright,12
+LD-0407,2023-10-03,Bengaluru,Kitchen Storage,Word of Mouth,214.0,Inquiry Only,1,0,Went with local carpenter,1
+LD-0408,2023-10-21,Pune,Living Room Set,Referral,154.0,Quote Sent,3,0,Price too high,13
+LD-0409,2023-09-29,Delhi,Home Office,Housing.com,151.0,Quote Sent,3,0,Price too high,18
+LD-0410,2023-10-06,Bengaluru,Living Room Set,Referral,245.0,Quote Sent,3,0,Budget cut after quote,13
+LD-0411,2023-10-17,Pune,Living Room Set,Google Ads,290.0,Site Visit Done,2,0,Site visit done but ghosted,6
+LD-0412,2023-10-04,Mumbai,Living Room Set,Referral,306.0,Inquiry Only,1,0,Location too far,3
+LD-0413,2023-10-13,Delhi,Living Room Set,Walk-in Showroom,332.0,Closed Won,5,1,,20
+LD-0414,2023-10-02,Hyderabad,Home Office,Housing.com,194.0,Inquiry Only,1,0,Could not schedule,1
+LD-0415,2023-10-07,Pune,Bedroom System,Housing.com,162.0,Site Visit Done,2,0,Site visit done but ghosted,10
+LD-0416,2023-10-21,Hyderabad,Bedroom System,Referral,139.0,Inquiry Only,1,0,Could not schedule,1
+LD-0417,2023-10-09,Pune,Living Room Set,Housing.com,329.0,Inquiry Only,1,0,No response after inquiry,1
+LD-0418,2023-10-10,Delhi,Living Room Set,Instagram,342.0,Quote Sent,3,0,Switched to flat-pack alternative,17
+LD-0419,2023-10-21,Mumbai,Living Room Set,Housing.com,162.0,Inquiry Only,1,0,Location too far,1
+LD-0420,2023-10-19,Bengaluru,Kitchen Storage,Instagram,153.0,Inquiry Only,1,0,No response after inquiry,5
+LD-0421,2023-10-26,Pune,Kitchen Storage,Referral,116.0,Inquiry Only,1,0,Could not schedule,4
+LD-0422,2023-09-28,Mumbai,Home Office,Instagram,165.0,Inquiry Only,1,0,Location too far,3
+LD-0423,2023-10-11,Pune,Home Office,Instagram,159.0,Quote Sent,3,0,Switched to flat-pack alternative,9
+LD-0424,2023-09-29,Bengaluru,Wardrobe Unit,Housing.com,92.0,Inquiry Only,1,0,Went with local carpenter,4
+LD-0425,2023-10-05,Mumbai,Bedroom System,Housing.com,173.0,Quote Sent,3,0,Switched to flat-pack alternative,13
+LD-0426,2023-10-16,Mumbai,Bedroom System,Walk-in Showroom,192.0,Inquiry Only,1,0,Went with local carpenter,3
+LD-0427,2023-10-01,Bengaluru,Home Office,Referral,128.0,Quote Sent,3,0,Budget cut after quote,15
+LD-0428,2023-10-08,Pune,Bedroom System,Google Ads,178.0,Quote Sent,3,0,Switched to flat-pack alternative,18
+LD-0429,2023-10-22,Pune,Living Room Set,Google Ads,282.0,Quote Sent,3,0,Budget cut after quote,15
+LD-0430,2023-10-03,Pune,Living Room Set,Google Ads,248.0,Inquiry Only,1,0,Went with local carpenter,1
+LD-0431,2023-10-25,Mumbai,Living Room Set,Referral,229.0,Site Visit Done,2,0,Not ready to proceed,4
+LD-0432,2023-10-19,Mumbai,Home Office,Walk-in Showroom,151.0,Quote Sent,3,0,Quote rejected outright,14
+LD-0433,2023-10-11,Pune,Home Office,Referral,181.0,Quote Sent,3,0,Quote rejected outright,18
+LD-0434,2023-10-10,Pune,Living Room Set,Google Ads,282.0,Inquiry Only,1,0,No response after inquiry,5
+LD-0435,2023-10-20,Delhi,Home Office,Housing.com,171.0,Site Visit Done,2,0,Not ready to proceed,7
+LD-0436,2023-10-26,Mumbai,Home Office,Walk-in Showroom,170.0,Quote Sent,3,0,Quote rejected outright,10
+LD-0437,2023-10-27,Pune,Home Office,Referral,161.0,Inquiry Only,1,0,Location too far,5
+LD-0438,2023-10-22,Pune,Kitchen Storage,Google Ads,142.0,Inquiry Only,1,0,Went with local carpenter,5
+LD-0439,2023-10-14,Hyderabad,Kitchen Storage,Referral,113.0,Closed Won,5,1,,43
+LD-0440,2023-10-24,Delhi,Living Room Set,Referral,162.0,Inquiry Only,1,0,Location too far,5
+LD-0441,2023-10-25,Hyderabad,Living Room Set,Referral,285.0,Quote Sent,3,0,Switched to flat-pack alternative,10
+LD-0442,2023-10-20,Hyderabad,Home Office,Instagram,160.0,Inquiry Only,1,0,Went with local carpenter,4
+LD-0443,2023-10-15,Ahmedabad,Bedroom System,Word of Mouth,129.0,Inquiry Only,1,0,Location too far,5
+LD-0444,2023-10-05,Hyderabad,Bedroom System,Housing.com,266.0,Inquiry Only,1,0,No response after inquiry,5
+LD-0445,2023-10-04,Pune,Kitchen Storage,Google Ads,135.0,Site Visit Done,2,0,Scope too large,5
+LD-0446,2023-11-05,Mumbai,Living Room Set,Walk-in Showroom,261.0,Closed Won,5,1,,40
+LD-0447,2023-11-16,Mumbai,Children's Room,Word of Mouth,75.0,Inquiry Only,1,0,No response after inquiry,4
+LD-0448,2023-11-19,Bengaluru,Living Room Set,Walk-in Showroom,214.0,Closed Won,5,1,,31
+LD-0449,2023-11-25,Delhi,Bedroom System,Google Ads,154.0,Negotiation,4,0,Client relocated,12
+LD-0450,2023-11-17,Delhi,Living Room Set,Referral,273.0,Site Visit Done,2,0,Not ready to proceed,7
+LD-0451,2023-11-14,Chennai,Bedroom System,Housing.com,236.0,Quote Sent,3,0,Switched to flat-pack alternative,14
+LD-0452,2023-11-13,Chennai,Living Room Set,Referral,166.0,Site Visit Done,2,0,Site visit done but ghosted,9
+LD-0453,2023-11-24,Pune,Kitchen Storage,Referral,182.0,Inquiry Only,1,0,Location too far,5
+LD-0454,2023-11-10,Chennai,Kitchen Storage,Housing.com,178.0,Inquiry Only,1,0,Location too far,1
+LD-0455,2023-10-29,Delhi,Living Room Set,Instagram,186.0,Quote Sent,3,0,Budget cut after quote,13
+LD-0456,2023-10-28,Pune,Bedroom System,Instagram,182.0,Quote Sent,3,0,Price too high,18
+LD-0457,2023-11-26,Pune,Living Room Set,Google Ads,251.0,Site Visit Done,2,0,Site visit done but ghosted,6
+LD-0458,2023-11-18,Bengaluru,Bedroom System,Walk-in Showroom,125.0,Quote Sent,3,0,Budget cut after quote,17
+LD-0459,2023-11-22,Pune,Children's Room,Referral,148.0,Site Visit Done,2,0,Site visit done but ghosted,8
+LD-0460,2023-11-15,Mumbai,Living Room Set,Housing.com,269.0,Inquiry Only,1,0,Could not schedule,3
+LD-0461,2023-11-03,Pune,Kitchen Storage,Referral,150.0,Closed Won,5,1,,44
+LD-0462,2023-11-15,Mumbai,Home Office,Referral,182.0,Inquiry Only,1,0,Went with local carpenter,5
+LD-0463,2023-11-03,Pune,Living Room Set,Referral,295.0,Negotiation,4,0,Negotiation failed on price,21
+LD-0464,2023-11-11,Chennai,Bedroom System,Google Ads,173.0,Inquiry Only,1,0,Location too far,5
+LD-0465,2023-11-02,Hyderabad,Wardrobe Unit,Google Ads,91.0,Quote Sent,3,0,Switched to flat-pack alternative,11
+LD-0466,2023-11-25,Mumbai,Kitchen Storage,Housing.com,158.0,Inquiry Only,1,0,No response after inquiry,4
+LD-0467,2023-11-23,Mumbai,Home Office,Google Ads,114.0,Inquiry Only,1,0,Location too far,3
+LD-0468,2023-11-25,Pune,Kitchen Storage,Walk-in Showroom,102.0,Closed Won,5,1,,36
+LD-0469,2023-11-25,Mumbai,Living Room Set,Referral,350.0,Site Visit Done,2,0,Not ready to proceed,7
+LD-0470,2023-11-06,Hyderabad,Kitchen Storage,Referral,116.0,Closed Won,5,1,,25
+LD-0471,2023-11-02,Hyderabad,Home Office,Housing.com,171.0,Quote Sent,3,0,Quote rejected outright,18
+LD-0472,2023-11-21,Chennai,Living Room Set,Walk-in Showroom,248.0,Closed Won,5,1,,43
+LD-0473,2023-10-29,Bengaluru,Bedroom System,Instagram,126.0,Inquiry Only,1,0,Could not schedule,5
+LD-0474,2023-11-15,Delhi,Kitchen Storage,Google Ads,165.0,Site Visit Done,2,0,Not ready to proceed,8
+LD-0475,2023-11-09,Hyderabad,Home Office,Google Ads,197.0,Quote Sent,3,0,Budget cut after quote,14
+LD-0476,2023-11-25,Chennai,Living Room Set,Walk-in Showroom,178.0,Quote Sent,3,0,Quote rejected outright,9
+LD-0477,2023-10-31,Delhi,Kitchen Storage,Referral,179.0,Negotiation,4,0,Client relocated,18
+LD-0478,2023-11-04,Pune,Bedroom System,Google Ads,127.0,Inquiry Only,1,0,Location too far,2
+LD-0479,2023-10-29,Mumbai,Home Office,Google Ads,100.0,Inquiry Only,1,0,Went with local carpenter,5
+LD-0480,2023-11-20,Pune,Children's Room,Word of Mouth,130.0,Negotiation,4,0,Client relocated,17
+LD-0481,2023-11-15,Delhi,Living Room Set,Referral,314.0,Negotiation,4,0,Project postponed indefinitely,26
+LD-0482,2023-11-01,Mumbai,Bedroom System,Google Ads,137.0,Site Visit Done,2,0,Competitor visited first,10
+LD-0483,2023-11-16,Mumbai,Bedroom System,Referral,216.0,Inquiry Only,1,0,Could not schedule,1
+LD-0484,2023-11-23,Mumbai,Home Office,Instagram,80.0,Inquiry Only,1,0,Went with local carpenter,5
+LD-0485,2023-11-10,Chennai,Home Office,Instagram,108.0,Inquiry Only,1,0,Went with local carpenter,3
+LD-0486,2023-11-19,Pune,Kitchen Storage,Google Ads,169.0,Quote Sent,3,0,Price too high,11
+LD-0487,2023-10-28,Bengaluru,Living Room Set,Google Ads,292.0,Inquiry Only,1,0,Could not schedule,5
+LD-0488,2023-11-07,Pune,Home Office,Referral,129.0,Quote Sent,3,0,Budget cut after quote,15
+LD-0489,2023-11-18,Delhi,Living Room Set,Instagram,229.0,Quote Sent,3,0,Quote rejected outright,12
+LD-0490,2023-11-15,Bengaluru,Wardrobe Unit,Google Ads,142.0,Inquiry Only,1,0,Location too far,1
+LD-0491,2023-11-02,Bengaluru,Home Office,Walk-in Showroom,92.0,Quote Sent,3,0,Price too high,9
+LD-0492,2023-11-23,Pune,Kitchen Storage,Instagram,117.0,Inquiry Only,1,0,Went with local carpenter,1
+LD-0493,2023-10-29,Delhi,Living Room Set,Referral,295.0,Inquiry Only,1,0,Went with local carpenter,5
+LD-0494,2023-10-29,Delhi,Wardrobe Unit,Google Ads,232.0,Inquiry Only,1,0,Went with local carpenter,4
+LD-0495,2023-11-13,Hyderabad,Children's Room,Referral,96.0,Closed Won,5,1,,23
+LD-0496,2023-12-02,Delhi,Home Office,Google Ads,90.0,Quote Sent,3,0,Switched to flat-pack alternative,16
+LD-0497,2023-12-26,Mumbai,Kitchen Storage,Referral,111.0,Site Visit Done,2,0,Not ready to proceed,6
+LD-0498,2023-12-03,Delhi,Home Office,Word of Mouth,135.0,Closed Won,5,1,,35
+LD-0499,2023-12-22,Delhi,Children's Room,Referral,116.0,Quote Sent,3,0,Budget cut after quote,18
+LD-0500,2023-12-04,Delhi,Bedroom System,Instagram,241.0,Inquiry Only,1,0,Went with local carpenter,4
+LD-0501,2023-12-05,Hyderabad,Bedroom System,Housing.com,131.0,Inquiry Only,1,0,Location too far,2
+LD-0502,2023-12-14,Delhi,Bedroom System,Walk-in Showroom,122.0,Inquiry Only,1,0,Location too far,3
+LD-0503,2023-11-29,Pune,Kitchen Storage,Referral,167.0,Closed Won,5,1,,23
+LD-0504,2023-12-12,Pune,Children's Room,Word of Mouth,136.0,Closed Won,5,1,,44
+LD-0505,2023-11-30,Pune,Living Room Set,Referral,174.0,Site Visit Done,2,0,Competitor visited first,8
+LD-0506,2023-12-24,Hyderabad,Wardrobe Unit,Referral,162.0,Quote Sent,3,0,Budget cut after quote,14
+LD-0507,2023-12-09,Hyderabad,Home Office,Referral,107.0,Quote Sent,3,0,Switched to flat-pack alternative,15
+LD-0508,2023-12-21,Delhi,Children's Room,Referral,86.0,Inquiry Only,1,0,Went with local carpenter,3
+LD-0509,2023-12-15,Mumbai,Living Room Set,Google Ads,170.0,Site Visit Done,2,0,Scope too large,8
+LD-0510,2023-12-07,Delhi,Wardrobe Unit,Referral,145.0,Quote Sent,3,0,Budget cut after quote,12
+LD-0511,2023-12-01,Delhi,Living Room Set,Housing.com,346.0,Inquiry Only,1,0,Could not schedule,3
+LD-0512,2023-12-03,Bengaluru,Children's Room,Walk-in Showroom,83.0,Inquiry Only,1,0,Location too far,4
+LD-0513,2023-12-25,Mumbai,Bedroom System,Walk-in Showroom,256.0,Quote Sent,3,0,Budget cut after quote,11
+LD-0514,2023-12-19,Bengaluru,Bedroom System,Google Ads,146.0,Quote Sent,3,0,Price too high,14
+LD-0515,2023-12-14,Delhi,Bedroom System,Walk-in Showroom,269.0,Negotiation,4,0,Competitor won on delivery time,17
+LD-0516,2023-12-13,Delhi,Bedroom System,Word of Mouth,198.0,Inquiry Only,1,0,Could not schedule,4
+LD-0517,2023-12-24,Bengaluru,Wardrobe Unit,Google Ads,115.0,Inquiry Only,1,0,No response after inquiry,4
+LD-0518,2023-11-29,Bengaluru,Kitchen Storage,Google Ads,109.0,Quote Sent,3,0,Budget cut after quote,16
+LD-0519,2023-12-24,Delhi,Bedroom System,Google Ads,270.0,Inquiry Only,1,0,Went with local carpenter,4
+LD-0520,2023-12-04,Hyderabad,Living Room Set,Referral,282.0,Inquiry Only,1,0,Could not schedule,2
+LD-0521,2023-12-25,Mumbai,Living Room Set,Referral,245.0,Site Visit Done,2,0,Site visit done but ghosted,4
+LD-0522,2023-12-25,Mumbai,Home Office,Referral,127.0,Site Visit Done,2,0,Competitor visited first,9
+LD-0523,2023-11-28,Bengaluru,Living Room Set,Referral,283.0,Inquiry Only,1,0,No response after inquiry,4
+LD-0524,2023-12-14,Chennai,Children's Room,Instagram,110.0,Inquiry Only,1,0,Location too far,5
+LD-0525,2023-12-15,Pune,Home Office,Google Ads,132.0,Inquiry Only,1,0,No response after inquiry,3
+LD-0526,2023-12-06,Delhi,Living Room Set,Instagram,223.0,Negotiation,4,0,Competitor won on delivery time,23
+LD-0527,2023-12-12,Bengaluru,Home Office,Referral,194.0,Closed Won,5,1,,25
+LD-0528,2023-12-25,Bengaluru,Living Room Set,Walk-in Showroom,262.0,Quote Sent,3,0,Switched to flat-pack alternative,13
+LD-0529,2023-12-13,Mumbai,Home Office,Referral,172.0,Inquiry Only,1,0,No response after inquiry,3
+LD-0530,2023-12-03,Bengaluru,Living Room Set,Google Ads,321.0,Quote Sent,3,0,Switched to flat-pack alternative,11
+LD-0531,2023-12-01,Bengaluru,Bedroom System,Walk-in Showroom,128.0,Closed Won,5,1,,40
+LD-0532,2023-11-27,Mumbai,Living Room Set,Instagram,249.0,Quote Sent,3,0,Budget cut after quote,14
+LD-0533,2023-12-21,Mumbai,Living Room Set,Google Ads,340.0,Site Visit Done,2,0,Site visit done but ghosted,8
+LD-0534,2023-12-23,Mumbai,Kitchen Storage,Instagram,146.0,Site Visit Done,2,0,Scope too large,7
+LD-0535,2023-11-28,Bengaluru,Kitchen Storage,Walk-in Showroom,124.0,Quote Sent,3,0,Quote rejected outright,14
+LD-0536,2023-12-02,Ahmedabad,Children's Room,Instagram,127.0,Site Visit Done,2,0,Site visit done but ghosted,6
+LD-0537,2023-11-28,Delhi,Bedroom System,Instagram,258.0,Quote Sent,3,0,Budget cut after quote,7
+LD-0538,2023-12-22,Delhi,Living Room Set,Referral,199.0,Inquiry Only,1,0,Went with local carpenter,5
+LD-0539,2023-12-12,Hyderabad,Living Room Set,Referral,168.0,Site Visit Done,2,0,Site visit done but ghosted,4
+LD-0540,2023-11-30,Mumbai,Home Office,Instagram,95.0,Site Visit Done,2,0,Not ready to proceed,10
+LD-0541,2023-12-09,Pune,Living Room Set,Housing.com,222.0,Site Visit Done,2,0,Competitor visited first,9
+LD-0542,2023-12-03,Delhi,Home Office,Instagram,148.0,Inquiry Only,1,0,No response after inquiry,4
+LD-0543,2023-12-14,Hyderabad,Children's Room,Referral,84.0,Quote Sent,3,0,Budget cut after quote,14
+LD-0544,2023-12-02,Pune,Bedroom System,Referral,261.0,Quote Sent,3,0,Budget cut after quote,18
+LD-0545,2023-12-03,Ahmedabad,Kitchen Storage,Referral,163.0,Quote Sent,3,0,Budget cut after quote,13
+LD-0546,2023-11-29,Mumbai,Home Office,Google Ads,85.0,Inquiry Only,1,0,Location too far,1
