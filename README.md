@@ -95,9 +95,3 @@ Summarized key findings and recommended business actions.
 This project uses a synthetic dataset created for portfolio and learning purposes.
 The analysis identifies patterns and opportunities within the data but does not establish the exact causes behind conversion outcomes.
 
-
-## Repository Contents
-
-* Power BI Dashboard (.pbix)
-* Dashboard Screenshots
-* Project Documentation (README)
