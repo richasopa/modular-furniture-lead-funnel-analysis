@@ -5,7 +5,7 @@
 ### Project Overview
 
 Built as Part 1 of the Inside Modular Interiors Analytics series, which explores sales, marketing, operations, and profitability across a modular furniture business.
-This Power BI project analyzes the lead-to-customer journey for a modular furniture business. The objective was to understand how leads progress through the sales process, identify high-performing lead sources, evaluate customer segments, and uncover opportunities to improve conversion performance.
+This Power BI project analyzes the lead to customer journey for a modular furniture business. The objective was to understand how leads progress through the sales process, identify high-performing lead sources, evaluate customer segments, and uncover opportunities to improve conversion performance.
 
 ## Dashboard Preview
 
